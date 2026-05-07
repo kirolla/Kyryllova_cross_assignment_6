@@ -1,0 +1,8 @@
+{
+  "ios": {
+    "bundleIdentifier": "com.anonymous.hw4"
+  },
+  "android": {
+    "package": "com.anonymous.hw4"
+  }
+}
